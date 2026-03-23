@@ -7,34 +7,55 @@ ________________________________________
 Objectives
 
 •	Analyze agricultural data efficiently
+
 •	Identify trends in crop yield, rainfall, and temperature
+
 •	Compare production across locations and seasons
+
 •	Build an interactive and professional dashboard
+
 ________________________________________
 Tools & Technologies Used
 
 •	Snowflake (Cloud Data Warehouse)
+
 •	Power BI (Data Visualization)
+
 •	SQL (Data Processing)
+
 •	AWS S3 (Data Storage)
 ________________________________________
 Dataset Description
 
 The dataset includes the following fields:
 •	Year
+
 •	Location
+
 •	Area
+
 •	Rainfall
+
 •	Temperature
+
 •	Soil Type
+
 •	Irrigation
+
 •	Yields
+
 •	Humidity
+
 •	Crops
+
 •	Price
+
 •	Season
+
 •	Year Group
+
 •	Rainfall Groups
+
 ________________________________________
 Data Pipeline
 
@@ -47,29 +68,50 @@ ________________________________________
 Dashboard Features
 
 •	KPI Cards:
+
 o	Total Production
+
 o	Average Rainfall
+
 o	Total Area
+
 o	Average Price
+
 •	Visualizations:
+
 o	Bar Chart (Production by Location)
+
 o	Line Chart (Yearly Trends)
+
 o	Pie Chart (Crop Distribution)
+
 o	Column Chart (Rainfall vs Yield)
+
 o	Matrix (Heatmap-style for Location vs Crops)
+
 •	Filters (Slicers):
+
 o	Year
+
 o	Location
+
 o	Season
+
 o	Soil Type
+
 o	Rainfall Groups
+
 ________________________________________
 Key Insights
 
 •	Identified top-performing locations based on yield
+
 •	Observed relationship between rainfall and production
+
 •	Seasonal impact on crop yield
+
 •	Crop-wise contribution to total production
+
 ________________________________________
 How to Run the Project
 
@@ -83,8 +125,11 @@ ________________________________________
 Future Enhancements
 
 •	Add predictive analysis (ML models)
+
 •	Include real-time data updates
+
 •	Improve dashboard interactivity
+
 ________________________________________
 Author
 
